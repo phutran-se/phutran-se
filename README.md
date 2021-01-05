@@ -1,4 +1,4 @@
-## Hi I'm Gaboso :fox_face:
+## Hi I'm Phu Tran :fox_face:
 
 ![Phu Tran](https://github.com/Gaboso/Gaboso/blob/master/cover.png "Phu Tran")
 
@@ -38,4 +38,4 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-⭐️ From [Gaboso](https://github.com/Gaboso)
+⭐️ From [Phun Tran](https://github.com/phutran-se)
