@@ -1,12 +1,12 @@
 ## Hi I'm Phu Tran :fox_face:
 
-![Phu Tran](https://github.com/Gaboso/Gaboso/blob/master/cover.png "Phu Tran")
+![Phu Tran](https://github.com/phutran-se/phutran-se/blob/master/cover.png "Phu Tran")
 
-:computer: _Software Engenieer at [Techsea Inc](https://github.com/phutran-se)_ :desert_island:Living in Ho Chi Minh :vietnam:
+:computer: _Software Engineer at [Techsea Inc](https://github.com/phutran-se)_ :desert_island:Living in Ho Chi Minh :vietnam:
 
 ### My Tech Stack
 
-![C/C++](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![C/C++](http://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![C#](http://img.shields.io/badge/-CSharp-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![iOS](http://img.shields.io/badge/-iOS-1565c0?style=flat-square&logo=ios)
