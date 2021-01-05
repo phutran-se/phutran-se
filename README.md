@@ -10,7 +10,7 @@
 ![C#](http://img.shields.io/badge/-CSharp-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![iOS](http://img.shields.io/badge/-iOS-1565c0?style=flat-square&logo=ios)
-![Objective-C](https://img.shields.io/badge/-ObjectiveC-black?style=flat-square&logo=objectivec)
+![Objective-C](https://img.shields.io/badge/-Objective%20C-black?style=flat-square&logo=objective-c)
 ![Network](http://img.shields.io/badge/-Network-0075A8?style=flat-square&logo=network&logoColor=ffffff)
 ![PHP](http://img.shields.io/badge/-PHP-269539?style=flat-square&logo=php&logoColor=ffffff)
 
@@ -18,7 +18,7 @@
 #### Database
 ![SQLite](https://img.shields.io/badge/-SQLite-336791?style=flat-square&logo=sqlite)
 ![My SQL](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=mysql)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2088FF?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -32,10 +32,10 @@
 ![Xcode](http://img.shields.io/badge/-Xcode-3DDC84?style=flat-square&logo=xcode&logoColor=ffffff)
 ![Visual Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=visual-studio&logoColor=ffffff)
 
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+![Debian](http://img.shields.io/badge/-Debian-3DDC84?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![macOS](http://img.shields.io/badge/-macOS-A81D33?style=flat-square&logo=apple&logoColor=ffffff)
+![macOS](http://img.shields.io/badge/-macOS-181717?style=flat-square&logo=apple&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+![IoT](http://img.shields.io/badge/-IoT-6DB33F?style=flat-square&logo=iot&logoColor=ffffff)
 ---
-⭐️ From [Phun Tran](https://github.com/phutran-se)
+⭐️ From [Phu Tran](https://github.com/phutran-se)
