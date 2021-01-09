@@ -2,9 +2,10 @@
 
 ![Phu Tran](https://github.com/phutran-se/phutran-se/blob/main/cover.jpg "Phu Tran")
 
-:computer: _Software Engineer at Techsea Inc_ :seedling: Living in Ho Chi Minh :vietnam:
-
-### My Tech Stack
+:computer: _Software Engineer at Techsea Inc_ 
+:seedling: Living in Ho Chi Minh :vietnam:
+:man_student: Graduated from [HCMUS](https://www.hcmus.edu.vn) with major Computer Science in 2012
+#### My Tech Stack
 
 ![C/C++](http://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![C#](http://img.shields.io/badge/-CSharp-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
