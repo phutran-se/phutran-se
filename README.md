@@ -31,8 +31,8 @@
 ![Netbeans](http://img.shields.io/badge/-Netbeans-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
-![Xcode](http://img.shields.io/badge/-Xcode-3DDC84?style=flat-square&logo=xcode&logoColor=ffffff)
-![Visual Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=visual-studio&logoColor=ffffff)
+![Xcode](http://img.shields.io/badge/-Xcode-61afef?style=flat-square&logo=xcode&logoColor=ffffff)
+![Visual Studio](http://img.shields.io/badge/-Visual%20Studio-7b60b9?style=flat-square&logo=visual-studio&logoColor=ffffff)
 
 ![Debian](http://img.shields.io/badge/-Debian-3DDC84?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)
