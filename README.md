@@ -17,11 +17,10 @@
 ![PHP](http://img.shields.io/badge/-PHP-269539?style=flat-square&logo=php&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=ffffff)
 
-
 #### Database
 ![SQLite](https://img.shields.io/badge/-SQLite-336791?style=flat-square&logo=sqlite)
-![My SQL](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=mysql)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2088FF?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![My SQL](http://img.shields.io/badge/-MySQL-DD0031?style=flat-square&logo=mysql)
+![Microsoft SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2088FF?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
