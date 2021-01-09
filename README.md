@@ -40,4 +40,4 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![IoT](http://img.shields.io/badge/-IoT-6DB33F?style=flat-square&logo=iot&logoColor=ffffff)
 ---
-:point_right: [![Twitter: Phu Tran](https://img.shields.io/twitter/follow/Phu%20Tran?style=social)](https://twitter.com/phutran_se)
+Follow me :point_right: [![Twitter: Phu Tran](https://img.shields.io/twitter/follow/phutran_se?style=social)](https://twitter.com/phutran_se)
