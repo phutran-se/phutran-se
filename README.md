@@ -10,11 +10,10 @@
 #### My Tech Stack
 
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
-![C#](http://img.shields.io/badge/-CSharp-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![C#](http://img.shields.io/badge/-CSharp-6DB33F?style=flat-square&logo=c%20sharp&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![iOS](http://img.shields.io/badge/-iOS-1565c0?style=flat-square&logo=ios)
-![Objective-C](https://img.shields.io/badge/-Objective%20C-black?style=flat-square&logo=objective-c)
-![Network](http://img.shields.io/badge/-Network-0075A8?style=flat-square&logo=network&logoColor=ffffff)
+![iOS](http://img.shields.io/badge/-iOS-1565c0?style=flat-square&logo=apple)
+![Network](http://img.shields.io/badge/-Network-0075A8?style=flat-square&logo=nintendo%20network&logoColor=ffffff)
 ![PHP](http://img.shields.io/badge/-PHP-269539?style=flat-square&logo=php&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=ffffff)
 
