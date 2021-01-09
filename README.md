@@ -1,8 +1,8 @@
-### Hi I'm Phu Tran :v:
+### Hi I'm Phu Tran :v: :dragon:
 
 ![Phu Tran](https://github.com/phutran-se/phutran-se/blob/main/cover.jpg "Phu Tran")
 
-:computer: _Software Engineer at Techsea Inc_ :seedling:Living in Ho Chi Minh :vietnam:
+:computer: _Software Engineer at Techsea Inc_ :seedling: Living in Ho Chi Minh :vietnam:
 
 ### My Tech Stack
 
@@ -13,6 +13,7 @@
 ![Objective-C](https://img.shields.io/badge/-Objective%20C-black?style=flat-square&logo=objective-c)
 ![Network](http://img.shields.io/badge/-Network-0075A8?style=flat-square&logo=network&logoColor=ffffff)
 ![PHP](http://img.shields.io/badge/-PHP-269539?style=flat-square&logo=php&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=ffffff)
 
 
 #### Database
@@ -38,4 +39,4 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![IoT](http://img.shields.io/badge/-IoT-6DB33F?style=flat-square&logo=iot&logoColor=ffffff)
 ---
-⭐️ From [Phu Tran](https://github.com/phutran-se)
+:point_right: From [Phu Tran](https://github.com/phutran-se)
