@@ -9,7 +9,7 @@
 :man_student: Graduated from [HCMUS](https://en.hcmus.edu.vn) with major Computer Science in 2012
 #### My Tech Stack
 
-![C/C++](http://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=c++&logoColor=ffffff)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![C#](http://img.shields.io/badge/-CSharp-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![iOS](http://img.shields.io/badge/-iOS-1565c0?style=flat-square&logo=ios)
