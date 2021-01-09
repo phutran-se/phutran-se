@@ -1,8 +1,8 @@
-## Hi I'm Phu Tran :fox_face:
+### Hi I'm Phu Tran :v:
 
 ![Phu Tran](https://github.com/phutran-se/phutran-se/blob/main/cover.jpg "Phu Tran")
 
-:computer: _Software Engineer at [Techsea Inc](https://github.com/phutran-se)_ :desert_island:Living in Ho Chi Minh :vietnam:
+:computer: _Software Engineer at Techsea Inc_ :seedling:Living in Ho Chi Minh :vietnam:
 
 ### My Tech Stack
 
