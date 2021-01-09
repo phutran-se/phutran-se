@@ -1,4 +1,4 @@
-### Hi I'm Phu Tran :v: :dragon:
+### Hi I'm Phu Tran :v:
 
 ![Phu Tran](https://github.com/phutran-se/phutran-se/blob/main/cover.jpg "Phu Tran")
 
